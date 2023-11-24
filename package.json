@@ -11,10 +11,12 @@
     "postinstall": "patch-package"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^18.6.2",
     "patch-package": "^8.0.0",
     "postinstall-postinstall": "^2.1.0",
     "react": "18.2.0",
     "react-native": "0.72.7",
+    "react-native-ping": "^1.2.8",
     "react-native-pip-android": "^1.0.1"
   },
   "devDependencies": {
